@@ -45,6 +45,12 @@
               ],
               "outputHashing": "all"
             },
+         	  "qa": {
+                "fileReplacements": [{
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.qa.ts"
+                }]
+            },
             "development": {
               "optimization": false,
               "extractLicenses": false,
@@ -64,6 +70,9 @@
           "configurations": {
             "production": {
               "buildTarget": "test01:build:production"
+            },
+        	  "qa": {
+              "buildTarget": "test01:build:qa"
             },
             "development": {
               "buildTarget": "test01:build:development"
