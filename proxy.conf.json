@@ -1,0 +1,44 @@
+{
+    "/mstc-acceso": {
+        "target": "https://tc-ds.apps.qaocp.imss.gob.mx/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    },
+    "/mstc-autenticacion": {
+        "target": "https://tc-ds.apps.qaocp.imss.gob.mx/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    },
+    "/mstc-catalogos": {
+        "target": "https://tc-ds.apps.qaocp.imss.gob.mx/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug" 
+    },
+    "/mstc-solicitudes": {
+        "target": "https://tc-ds.apps.qaocp.imss.gob.mx/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    },
+    "/mstc-especificaciones": {
+        "target": "https://tc-ds.apps.qaocp.imss.gob.mx/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    },
+    "/mstc-archivos": {
+        "target": "https://tc-ds.apps.qaocp.imss.gob.mx/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    },
+    "/mstc-tratamientosprev": {
+        "target": "https://tc-ds.apps.qaocp.imss.gob.mx/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    }
+}
